@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![light](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![dark](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![light](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![dark](https://github.com/ITBillZ/ITBillZ/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **ITBillZ/ITBillZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
